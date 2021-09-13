@@ -4,6 +4,10 @@ a{
   color: purple;
 }
 
-#menu{
+#menu, #home, #about, #action{
+  display: none;
+}
+
+#contact{
   display: none;
 }
