@@ -28,6 +28,8 @@ $(document).ready(function(){
     //$('#home'+url).show()
   //})
 
+
+  /*
   $('a').click(function(e){
     e.preventDefault()
 
@@ -83,5 +85,7 @@ $(document).ready(function(){
     }
 
   })
+
+  */
   
 })
